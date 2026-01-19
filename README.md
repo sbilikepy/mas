@@ -1,0 +1,2 @@
+# mas
+microsoft activation script
